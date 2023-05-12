@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "header": "Search engine",
+        "description": "This project has been created with hooks concept it takes the information from the user and do the searchng for the related information. ",
+        "buttontext":"View",
+        "link":"https://guptaranjansatapathy.github.io/searching-engine/"
+    },
+    {
+        "id": 2,
+        "header": "Maxim project campaign",
+        "description": "This project is for marketing campaign which showcases different semiconductor products from the UK warehouse for selling.",
+        "buttontext":"View",
+        "link":"https://uk.farnell.com/maxim-power"
+    },
+    {
+        "id": 3,
+        "header": "Vietnam ecommerce site",
+        "description": "This project is to create new  market  place for Element14. This requires Vietnam e-commerce entire site migration of the front end code with content as per Vietnamese language.",
+        "buttontext":"View",
+        "link":"https://vn.element14.com/"
+    },
+    {
+        "id": 4,
+        "header": "Best selling tools marketing campaign",
+        "description": "This project is for marketing campaign which showcases different daily use electrical products from the Singapore warehouse for selling.",
+        "buttontext":"View",
+        "link":"https://sg.element14.com/best-selling-tools-offer-off"
+    }
+]
