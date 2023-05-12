@@ -7,7 +7,7 @@ function App() {
       <div className="hero-image">
         <div className="hero-text">
           <h4>My name is Guptaranjan Satapathy</h4>
-          <h1>I am an Front end UI developer</h1>
+          <h1>I am a Front end UI developer</h1>
           <div className="hero-card">
             <p>Experienced UI developer with 7 years experience and specialization in web based pages and applications. Designed web pages that increased user satisfaction and resolved persistent cross browser compatibility issues for users across multiple regions whilst rigorously adhering to project deadlines.Worked with stakeholders from multiple regions for different website needs.</p>
             <h5>Technical Skills</h5>
