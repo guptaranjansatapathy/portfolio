@@ -14,8 +14,8 @@ function App() {
             <p class="card-container"><span className="small-cards">HTML5</span><span className="small-cards">CSS3</span><span className="small-cards">Bootstrap</span><span className="small-cards">React js</span><span className="small-cards">Javascript</span><span className="small-cards">Jquery</span></p>
           </div>
           <a href="#projects" className="button">Projects</a>
-          <a href="#" className="button">Resume</a>
-          <a href="https://github.com/guptaranjansatapathy" className="button">Git</a>
+          <a href="/gupta_ranjan_satapathy_resume.docx" target="_blank" className="button" download>Resume</a>
+          <a href="https://github.com/guptaranjansatapathy" target="_blank" className="button">Git</a>
         </div>
       </div>
      <Projects />
