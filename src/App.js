@@ -15,7 +15,7 @@ function App() {
           </div>
           <a href="#projects" className="button">Projects</a>
           <a href="#" className="button">Resume</a>
-          <a href="#" className="button">Git</a>
+          <a href="https://github.com/guptaranjansatapathy" className="button">Git</a>
         </div>
       </div>
      <Projects />
